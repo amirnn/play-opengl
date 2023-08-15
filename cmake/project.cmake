@@ -1,0 +1,1 @@
+add_executable(main_app "src/main.cpp")
